@@ -8,11 +8,12 @@ public class AppiumTest {
 	public void Nativeapp()
 	{
 		System.out.println("Nativeapp");
+		System.out.println("I am in Y- MavanDemo");
 	}
 	@Test
 public void MobileApp()
 {
 	System.out.println("Mobile App");
-	
+	System.out.println("I am mobile in Y- MavanDemo");
 }
 }
